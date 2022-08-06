@@ -1,0 +1,86 @@
+——————————————————————
+COS
+
+Female (Count: 48)
+	Personal: 0.1875
+	Collective: 0.6666666666666666
+	Ambiguous: 0.14583333333333334
+
+Male (Count: 113)
+	Personal: 0.10619469026548672
+	Collective: 0.6637168141592921
+	Ambiguous: 0.23008849557522124
+———————————————————————
+ECO
+
+Female (Count: 73)
+	Personal: 0.5616438356164384
+	Collective: 0.1506849315068493
+	Ambiguous: 0.2876712328767123
+
+Male (Count: 138)
+	Personal: 0.4782608695652174
+	Collective: 0.15942028985507245
+	Ambiguous: 0.36231884057971014
+_____________________________
+ORF
+
+Female (Count: 66)
+	Personal: 0.07575757575757576
+	Collective: 0.4393939393939394
+	Ambiguous: 0.48484848484848486
+
+Male (Count: 143)
+	Personal: 0.07692307692307693
+	Collective: 0.5244755244755245
+	Ambiguous: 0.3986013986013986
+————————————————————————
+POL
+
+Female (Count: 19)
+	Personal: 0.5789473684210527
+	Collective: 0.05263157894736842
+	Ambiguous: 0.3684210526315789
+
+Male (Count: 22)
+	Personal: 0.5454545454545454
+	Collective: 0.09090909090909091
+	Ambiguous: 0.36363636363636365
+——————————————————————————
+ANT
+
+Female (Count: 21)
+	Personal: 0.42857142857142855
+	Collective: 0.047619047619047616
+	Ambiguous: 0.5238095238095238
+
+Male (Count: 10)
+	Personal: 0.4
+	Collective: 0.3
+	Ambiguous: 0.3
+————————————————————————
+ELE
+
+Female (Count: 20)
+	Personal: 0.1
+	Collective: 0.6
+	Ambiguous: 0.3
+
+Male (Count: 41)
+	Personal: 0.04878048780487805
+	Collective: 0.4146341463414634
+	Ambiguous: 0.5365853658536586
+------------------------
+CBE
+
+Female
+	Personal: 0.06557377049180328
+	Collective: 0.36065573770491804
+	Ambiguous: 0.5737704918032787
+Total: 61
+
+Male
+	Personal: 0.08333333333333333
+	Collective: 0.38333333333333336
+	Ambiguous: 0.5333333333333333
+Total: 60
